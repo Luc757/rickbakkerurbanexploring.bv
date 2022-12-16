@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(255, 50, 147);
+    }
+h1 {
+  color: black;
+  font-family: "Comic Sans MS", "Times New Roman", Arial, Verdana;
+   }
+h3 {
+  color: black;
+  font-family: "Comic Sans MS", "Times New Roman", Arial, Verdana;
+   }
+h2 {
+  color: black;
+  font-family: "Comic Sans MS", "Times New Roman", Arial, Verdana;
+   }
+h4 {
+  color: black;
+  font-family: "Comic Sans MS", "Times New Roman", Arial, Verdana;
+   }
+h5 {
+  color: black;
+  font-family: "Comic Sans MS", "Times New Roman", Arial, Verdana;
+   }
+h6 {
+  color: black;
+  font-family: "Comic Sans MS", "Times New Roman", Arial, Verdana;
+   }
+hr {
+  border: 2px solid black;
+  background-color: black;
+  font-family: "Comic Sans MS", "Times New Roman", Arial, Verdana;
+   }
+div{
+  color: black;
+  font-family: "Comic Sans MS", "Times New Roman", Arial, Verdana;
+   }
+
+button{
+  color: white;
+  font-family:"Comic Sans MS", "Times New Roman", Arial, Verdana;
+  font-size: 25px;
+  height: auto;
+  background-color: transparent;
+  outline: none;
+  border: 3px solid black;
+  border-radius: 20px;
+  padding: 5px;
+  cursor: pointer;
+      }
